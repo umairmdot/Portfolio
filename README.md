@@ -14,12 +14,6 @@ I've worked on multiple projects utilizing modern technologies and best practice
 </a>
 </div>
 
-## 📽️ PREVIEW
-[![Portfolio Preview](https://firebasestorage.googleapis.com/v0/b/portfolio-app-147b5.appspot.com/o/screenshots%2Fportfolio2.0%2Fyoutube.png?alt=media&token=ba66ef7c-2e8e-4bb8-975b-061a764fc0b9)](https://youtu.be/YjVJyqcv5I8 "Portfolio Preview - Click to Watch!")
-
-## 📸 SCREENSHOTS
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-app-147b5.appspot.com/o/screenshots%2Fportfolio1.2%2Fs-01.jpg?alt=media&token=18d7c84c-c2c1-43b1-8b61-fb975a86ed01" width="250"/> <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-app-147b5.appspot.com/o/screenshots%2Fportfolio1.2%2Fs-02.jpg?alt=media&token=68fec153-29be-4fd4-b974-bd9e13db4e58" width="250"/> <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-app-147b5.appspot.com/o/screenshots%2Fportfolio1.2%2Fs-03.jpg?alt=media&token=cfb5bae0-e8b8-4f0e-8b41-e7b375592750" width="250"/>
-
 ## 🔧 TOOLS AND TECHNOLOGIES
 - **Languages**: Java, Python, C++, HTML, CSS, JavaScript
 - **Frameworks**: React, Node.js
